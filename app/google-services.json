@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236945233673",
+    "project_id": "vehicle-tracking-app-6565c",
+    "storage_bucket": "vehicle-tracking-app-6565c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236945233673:android:e51bd8a5ff87132ca265d8",
+        "android_client_info": {
+          "package_name": "com.example.vahical_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMR8Ak3jlkMix9vNwj7SZLMG7Fd2ByBU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236945233673:android:20d3dc429c378581a265d8",
+        "android_client_info": {
+          "package_name": "com.example.vehicletrackingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMR8Ak3jlkMix9vNwj7SZLMG7Fd2ByBU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
